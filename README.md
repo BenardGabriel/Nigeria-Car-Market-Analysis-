@@ -20,7 +20,7 @@ The Nigerian car market, while vibrant, suffers from information asymmetry. Buye
 
 * Some of the challenges include:
 
-* Lack of reliable market averages for price, mileage, and engine performance.
+* Lack of reliable market averages for price, mileage, and engine performance. 
 
 * Limited knowledge about consumer preferences for brand, color, and transmission type.
 
